@@ -6,7 +6,7 @@
  
  -  -   create a project tracker
         
-    -   extract source-title, source-URL, and length-of-video and send it for select/reject_for_extraction
+    -   Extract source-title, source-URL, and length-of-video and send it for select/reject_for_extraction
         
     -   1. We need to watch the video, while watching the video topics changed for a few slides we need to take the time stamp after one topic completed  
         2. We can identify the topics with heading, main titles  
@@ -21,9 +21,9 @@
         [![](https://developers.google.com/drive/images/drive_icon.png)https://docs.google.com/spreadsheets/d/1sAx3348j7V4cIp_t-9viMVPcN-XfYhjxV_vGhwpv2NY/edit#gid=0](https://docs.google.com/spreadsheets/d/1sAx3348j7V4cIp_t-9viMVPcN-XfYhjxV_vGhwpv2NY/edit#gid=0)
         **RESTRICTED CONTENT**
         
-    -   divide the components into 30 minute sprints
+    -   Divide the components into 30 minute sprints
         
-    -   parallelly, extract the video and upload to vimeo
+    -   Parallelly, extract the video and upload to vimeo
         
 
 
@@ -35,11 +35,13 @@
 
 1 . We need to create the individual tracker sheet for each video we have divided  in Step 1 
 
- - After the  creation of the PPTsT,s make sure to update those into individual trackers 
+ - After the  creation of the PPT's make sure to update those into individual trackers 
 
 2. We have the tracker sheet template take a copy from that  
         here is the template URL
-        [![](https://developers.google.com/drive/images/drive_icon.png)https://docs.google.com/spreadsheets/d/1842-LOjBXeFjqqBKf7AuVre6v98oXQJGfnie1olx7cY/edit#gid=0](https://docs.google.com/spreadsheets/d/1842-LOjBXeFjqqBKf7AuVre6v98oXQJGfnie1olx7cY/edit#gid=0)
+
+[![](https://developers.google.com/drive/images/drive_icon.png)
+https://docs.google.com/spreadsheets/d/1842-LOjBXeFjqqBKf7AuVre6v98oXQJGfnie1olx7cY/edit#gid=0](https://docs.google.com/spreadsheets/d/1842-LOjBXeFjqqBKf7AuVre6v98oXQJGfnie1olx7cY/edit#gid=0)
 **RESTRICTED CONTENT**
   NOTE: do not edit the template take a copy of the  template  
   4. After copy the template we need to rename the tracker sheet name with the  video title name and update the component id in the  tracker sheet
