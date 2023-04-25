@@ -15,3 +15,7 @@
 8.  Create a new password by following the on-screen instructions.
     
 9.  Once you have completed the password change process, click on the "Finish" button to save your changes.
+
+
+Here is the video URL
+https://vimeo.com/820502533?share=copy
