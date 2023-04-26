@@ -1,4 +1,4 @@
-Video Exporting to ppt in Github
+###  Video Exporting to ppt in Github
 
 Here is the process for adding the transitions and exporting the video in PowerPoint.
 
@@ -10,11 +10,10 @@ Here is the process for adding the transitions and exporting the video in PowerP
     
 4.  Give the timestamps based on the audio/video file in the recording-instr sub-sheet.
     
-    1.  First find the time at what time the slide has to change by using the formula (next slide changing time - previous slide) you can find the slide changing time in the recording sheet of the component id tracker sheet and then take that timing in the transitions tab at the right side click on after then enter timings there 
-    [https://i.gyazo.com/5017de48bef7c7087456993096f0dca2.png](https://i.gyazo.com/5017de48bef7c7087456993096f0dca2.png "https://i.gyazo.com/5017de48bef7c7087456993096f0dca2.png")
+    1.  First find the time at what time the slide has to change by using the formula (next slide changing time - previous slide) you can find the slide changing time in the recording sheet of the component id tracker sheet and then take that timing in the transitions tab at the right side click on after then enter timings there ![](https://i.gyazo.com/5017de48bef7c7087456993096f0dca2.png)
+  
         
-    3.  Find the delay time by using formula (see the appear time of object then - the slide changing time <same slide>) you can find slide changing time and object appear times in recording sheet of component id tracker sheet and the take that timing in animation tab right side in delay option [https://i.gyazo.com/d7086c8a420cd3c29b77bc7a653e1bbd.png](https://i.gyazo.com/d7086c8a420cd3c29b77bc7a653e1bbd.png "https://i.gyazo.com/d7086c8a420cd3c29b77bc7a653e1bbd.png")
-        
+    3.  Find the delay time by using formula (see the appear time of object then - the slide changing time <same slide>) you can find slide changing time and object appear times in recording sheet of component id tracker sheet and the take that timing in animation tab right side in delay option ![](https://i.gyazo.com/d7086c8a420cd3c29b77bc7a653e1bbd.png)
     4.  Formula: select emty cell then after that we have to select the cell (which we want - with ) and then click on - then select the cell (which we want - from ) at last we have to click enter then we will get correct answer after deducting the time
         
     5.  Every time after clicking appear of object first we have to select appear with previous then have to enter delay timings in animation tab
