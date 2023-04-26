@@ -1,4 +1,7 @@
-# Let’s explore all the advanced feature from each tab
+# 10 Important features of PowerPoint that everyone needs to know
+
+
+### Let’s explore all the advanced feature from each tab
 
 # **Home**
 
@@ -9,7 +12,7 @@
     
 -   In that case you can use a wonderful feature called **Align** which is in **Home** tab (Drawing group position object section)
     
--   If you want all the bullet points or text to start from left/right side, keeping the first bullet point/text as reference, then
+-   If you want all the bullet points or text to start from the left/right side, keeping the first bullet point/text as a reference, then
     
 -   Select all the bullets/text, go to the 
 -**Home tab>Arrange option>Align section>click on align left/right.**
