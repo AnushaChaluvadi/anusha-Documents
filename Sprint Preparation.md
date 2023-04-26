@@ -1,7 +1,8 @@
 
+# Sprint preparation
 
 
-## Split the video into small parts and upload it to Vimeo:
+### Split the video into small parts and upload it to Vimeo:
 The first step for sprint preparation is to split the video into small parts :
 1. We need to watch the video, while watching the video topics changed for a few slides we need to take the time stamp after one topic completed  
 2. We can identify the topics with heading, main titles  
@@ -25,7 +26,8 @@ Here is the template URL
 NOTE: do not edit the template take a copy of the template  
 3. After copying the template we need to rename the tracker sheet name with the video title name and update the component id in the tracker sheet.
 
-[![](https://assets2.gyazo.com/favicon.ico)Screenshot by Gyazo](https://gyazo.com/e20c600d67a260f7d76ba085f23a92e4)  
+![](https://i.gyazo.com/e20c600d67a260f7d76ba085f23a92e4.png) 
+
 4.Give the edit access to [ncodeitalwvqa@gmail.com](mailto:ncodeitalwvqa@gmail.com "mailto:ncodeitalwvqa@gmail.com") to tracker sheet  
   
 ## Create PPTs:  
