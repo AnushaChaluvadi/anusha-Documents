@@ -1,4 +1,4 @@
-###  Video Exporting to ppt in Github
+##   Video Exporting to ppt in Github
 
 Here is the process for adding the transitions and exporting the video in PowerPoint.
 
@@ -41,3 +41,5 @@ Here is the process for adding the transitions and exporting the video in PowerP
 12.  Click on create video, save it in your system.
     
 13.  Wait until the exporting finishes.
+
+    
