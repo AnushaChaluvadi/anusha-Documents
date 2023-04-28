@@ -1,6 +1,6 @@
 # _**Sprint-Prep-Checklist:**_
 
- -   Sprint approvals team is will work on creating a pool of approved sprints. Other content-delivery teams will pick up approved sprints from this pool
+ -   Sprint approvals team will work on creating a pool of approved sprints. Other content-delivery teams will pick up approved sprints from this pool
     
  -   List of activities - in the same order - for `sprints-prep` team
  
@@ -15,9 +15,9 @@
         don't split the video less than 9 to 10 minutes  
         don't split the video more than15 minutes  
         4. List out the timestamps and split the video into small parts based on that timestamps  
-        5. After split the video we need to upload those videos to vimeo  
-        after uploading take the url and upload to tracker sheet in i column(vimeo url)  
-        here the project ttracker sheet  
+        5. After splitting the video we need to upload those videos to vimeo  
+        after uploading take the url and upload to the  tracker sheet in i columnVimeoo url)  
+        Here is  the project tracker sheet  
         [![](https://developers.google.com/drive/images/drive_icon.png)https://docs.google.com/spreadsheets/d/1sAx3348j7V4cIp_t-9viMVPcN-XfYhjxV_vGhwpv2NY/edit#gid=0](https://docs.google.com/spreadsheets/d/1sAx3348j7V4cIp_t-9viMVPcN-XfYhjxV_vGhwpv2NY/edit#gid=0)
         **RESTRICTED CONTENT**
         
@@ -46,7 +46,8 @@ https://docs.google.com/spreadsheets/d/1842-LOjBXeFjqqBKf7AuVre6v98oXQJGfnie1olx
   NOTE: do not edit the template take a copy of the  template  
   4. After copy the template we need to rename the tracker sheet name with the  video title name and update the component id in the  tracker sheet
         
-[![](https://assets2.gyazo.com/favicon.ico)Screenshot by Gyazo](https://gyazo.com/e20c600d67a260f7d76ba085f23a92e4)  
+   ![](https://i.gyazo.com/e20c600d67a260f7d76ba085f23a92e4.png)
+
 4.Give the edit access to [ncodeitalwvqa@gmail.com](mailto:ncodeitalwvqa@gmail.com "mailto:ncodeitalwvqa@gmail.com") to tracker sheet
         
 
